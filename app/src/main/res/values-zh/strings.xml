@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">我的应用2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="happy_question">你开心么？</string>
+    <string name="yes_button">开心</string>
+    <string name="no_button">不</string>
+</resources>

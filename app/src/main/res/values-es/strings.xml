@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myapplication2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="happy_question">Are you Happay?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+</resources>
